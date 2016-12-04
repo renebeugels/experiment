@@ -1,0 +1,3 @@
+- learn git
+- create remotes
+- and more!
